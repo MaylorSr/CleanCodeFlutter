@@ -1,0 +1,1 @@
+enum GenericState {initial, loading, load, failure}

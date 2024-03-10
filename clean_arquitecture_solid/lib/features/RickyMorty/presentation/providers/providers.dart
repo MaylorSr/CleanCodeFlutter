@@ -1,0 +1,1 @@
+export 'bloc/ricky_morty_bloc.dart';

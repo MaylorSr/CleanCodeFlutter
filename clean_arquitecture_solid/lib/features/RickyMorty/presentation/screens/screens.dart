@@ -1,0 +1,1 @@
+export 'ricky_morty_screen.dart';
